@@ -4,7 +4,7 @@
   "fifty_fifty": ["A", "D"],
   "questionSkip":2,
   "timer":60,
-  "questionNo":1,
+  "questionNo":2,
   "questionTitle": "From where does Veeru propose to Basanti in Sholay?",
   "questionOptions": ["Top of a roof", "Top of a ladder", "Top of a hill", "Top of a water tank"],
   "questionCorrectAnswer": "Top of a water tank"
