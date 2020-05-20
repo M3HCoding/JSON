@@ -1,0 +1,11 @@
+{
+  "status": true,
+  "audiencePoll": ["A 30%", "B 50%", "C 10%", "D 10%"],
+  "fifty_fifty": ["A", "B"],
+  "questionSkip":1,
+  "timer":60,
+  "questionNo":1,
+  "questionTitle": "What are John Abraham and Akshay Kumar's professions in Garam Masala?",
+  "questionOptions": ["Reporter", "Photographers", "Professors", "Lawyers"],
+  "questionCorrectAnswer": "Photographers"
+}
