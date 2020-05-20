@@ -1,0 +1,11 @@
+{
+  "status": true,
+  "audiencePoll": ["A 30%", "B 15%", "C 55%", "D 5%"],
+  "fifty_fifty": ["A", "C"],
+  "questionSkip":3,
+  "timer":60,
+  "questionNo":3,
+  "questionTitle": "This film launched Amitabh Bachchan as the 'angry young man' of Bollywood?",
+  "questionOptions": ["Sholay", "Deewar", "Zanjeer", "Top of a water tank"],
+  "questionCorrectAnswer": "Zanjeer"
+}
